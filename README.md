@@ -11,4 +11,7 @@ This is a shop app made in flutter.
   > Important : you should have flutter installed on you system.
 
 ## Some ScreenShots of App
-<img src="https://github.com/Sushant0402/shopper/blob/master/image/1.jpg" width="250px">
+<img src="https://github.com/Sushant0402/shopper/blob/master/image/1.jpg" width="250px"> <img src="https://github.com/Sushant0402/shopper/blob/master/image/2.jpg" width="250px">
+<img src="https://github.com/Sushant0402/shopper/blob/master/image/3.jpg" width="250px"> <img src="https://github.com/Sushant0402/shopper/blob/master/image/4.jpg" width="250px">
+<img src="https://github.com/Sushant0402/shopper/blob/master/image/5.jpg" width="250px"> <img src="https://github.com/Sushant0402/shopper/blob/master/image/6.jpg" width="250px">
+<img src="https://github.com/Sushant0402/shopper/blob/master/image/7.jpg" width="250px"> <img src="https://github.com/Sushant0402/shopper/blob/master/image/8.jpg" width="250px">
