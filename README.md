@@ -1,6 +1,6 @@
 # Shopper
 
-This is a shop app made in flutter.
+This is a shopping app made in flutter.
 
 ## How to use:
   * Open Android studio
